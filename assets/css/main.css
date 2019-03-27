@@ -2404,7 +2404,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 1em 0 0;
+			padding: 0 0 0 1em;
 		}
 
 			ul.icons li:last-child {
@@ -2876,7 +2876,7 @@ input, select, textarea {
 				}
 
 				#header > footer {
-					padding: 1.5em 1.5em 1.5em 3em;
+					padding: 1.5em;
 				}
 
 		/* Wrapper */
@@ -3185,7 +3185,7 @@ input, select, textarea {
 					}
 
 				#header > footer {
-					padding: 1.5em 1.5em 1.5em 3em;
+					padding: 1.5em;
 				}
 
 		/* Main */
