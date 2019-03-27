@@ -11,6 +11,6 @@ Additional Credits:</br>
 - Other:</br>
 	- jQuery (jquery.com)</br>
 	- Scrollex (github.com/ajlkn/jquery.scrollex)</br>
-	- Responsive Tools (github.com/ajlkn/responsive-tools)
+	- Responsive Tools (github.com/ajlkn/responsive-tools) 
 
 ****************************************************************************************************
