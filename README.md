@@ -1,7 +1,7 @@
 # portfolio_website
 ****************************************************************************************************
 
-Welcome to my portfolio website, a place where I can update the world on my career pursuits and aspirations.</br>
+Welcome to my portfolio website hosted by Github Pages, a place where I can update the world on my career pursuits and aspirations.</br>
 
 Website design layout was adapted from HTML5 UP (html5up.net | @ajlkn) to fit the needs of a personal portfolio website.</br>
 
